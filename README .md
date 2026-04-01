@@ -1,8 +1,8 @@
 # AI Programming Project
 
 ## Student Details
-Name: [Your Name]
-Registration Number: [Your Reg No]
+Name: [waruguru joan]
+Registration Number: [251884dai]
 
 ## Project Title
 Rule-Based AI Chatbot
