@@ -5,7 +5,7 @@ Name: [waruguru joan]
 Registration Number: [251884dai]
 
 ## Project Title
-Rule-Based AI Chatbot
+AI_Progrmming_project
 
 ## Description
 This project is a simple chatbot built using Python. It uses if-else logic and keyword matching to respond to user questions.
